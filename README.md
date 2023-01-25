@@ -16,6 +16,6 @@
 
 <p align="justify">
 
-Esse projeto foi co-desenvolvido em aula do Bootcamp Dev Full Stack - Walburg Pincus, oferecido gratuitamente pela Digital Innovation One (DIO). O objetivo era praticar as principais características da OO - abstração, encapsulamento, herança e polimorfismo -, utilizando a linguagem Java.
+Esse projeto foi co-desenvolvido em aula do Bootcamp Cloud Full Stack - Walburg Pincus, oferecido gratuitamente pela Digital Innovation One (DIO). O objetivo era praticar as principais características da OO - abstração, encapsulamento, herança e polimorfismo -, utilizando a linguagem Java.
 
 </p>
