@@ -7,9 +7,9 @@
 ![jdk-version](https://img.shields.io/badge/JDK-17.0.5-0671af.svg)
 ![ide](https://img.shields.io/badge/Editor-IntelliJ%202022.3.1-3cb48c.svg)
 
-[![GitHub stars](https://img.shields.io/github/stars/biachristie/abstracaoBootcamp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/abstracaoBootcamp/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/biachristie/abstracaoBootcamp.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/biachristie/abstracaoBootcamp/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/biachristie/abstracaoBootcamp.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/biachristie/abstracaoBootcamp/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/biachristie/java-abstracao-bootcamp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/java-abstracao-bootcamp/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/biachristie/java-abstracao-bootcamp.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/biachristie/java-abstracao-bootcamp/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/biachristie/java-abstracao-bootcamp.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/biachristie/java-abstracao-bootcamp/network/members)
 
 </div>
 <br>
